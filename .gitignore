@@ -1,0 +1,6 @@
+/.idea/
+/.quarkus/
+/target/
+/backend/target/
+/frontend/node_modules/
+

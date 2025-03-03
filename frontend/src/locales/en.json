@@ -1,0 +1,14 @@
+{
+  "amount": "Amount",
+  "currencyConverter": "Currency Converter",
+  "fromCurrency": "From Currency",
+  "toCurrency": "To Currency",
+  "convert": "Convert",
+  "converting": "Converting...",
+  "retry": "Retry",
+  "loadingCurrencies": "Loading available currencies...",
+  "invalidAmount": "Please enter a valid positive amount",
+  "selectCurrencies": "Please select currencies",
+  "unexpectedError": "An unexpected error occurred",
+  "selectCurrency": "Select currency"
+}
